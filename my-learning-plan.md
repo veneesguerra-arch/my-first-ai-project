@@ -33,3 +33,22 @@ and develop additional income opportunities.
 
 I am learning how to use GitHub
 to manage my AI projects.
+
+
+## My First Pull Request Exercise
+
+I am learning how developers collaborate
+using GitHub.
+
+A Pull Request is a proposal to incorporate
+changes into an original project.
+
+The Pull Request process includes:
+
+1. Creating a branch.
+2. Editing project files.
+3. Committing changes.
+4. Publishing the branch.
+5. Creating a Pull Request.
+6. Reviewing the changes.
+7. Merging approved changes.
