@@ -13,3 +13,15 @@ Welcome to my first GitHub repository!
 
 To use AI and technology
 to develop practical income opportunities.
+
+## My Practical Projects
+
+1. Create an AI business assistant.
+2. Develop an automated Excel accounting system.
+3. Build a company website.
+4. Create AI educational videos.
+
+## My New Skills
+
+I am learning how to use GitHub
+to manage my AI projects.
