@@ -1,4 +1,3 @@
-
 # My AI Learning Plan
 
 ## My Objective
@@ -34,6 +33,19 @@ and develop additional income opportunities.
 I am learning how to use GitHub
 to manage my AI projects.
 
+## My GitHub Branching Exercise
+
+I have successfully created my first GitHub branch.
+
+My branch name is:
+lesson-6-experiment
+
+My understanding:
+
+1. Main is my original project.
+2. A branch is a separate working version.
+3. I can experiment without immediately changing main.
+4. I can merge approved changes into main.
 
 ## My First Pull Request Exercise
 
