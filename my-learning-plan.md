@@ -34,16 +34,21 @@ and develop additional income opportunities.
 I am learning how to use GitHub
 to manage my AI projects.
 
-## My GitHub Branching Exercise
 
-I have successfully created my first GitHub branch.
+## My First Pull Request Exercise
 
-My branch name is:
-lesson-6-experiment
+I am learning how developers collaborate
+using GitHub.
 
-My understanding:
+A Pull Request is a proposal to incorporate
+changes into an original project.
 
-1. Main is my original project.
-2. A branch is a separate working version.
-3. I can experiment without immediately changing main.
-4. I can merge approved changes into main.
+The Pull Request process includes:
+
+1. Creating a branch.
+2. Editing project files.
+3. Committing changes.
+4. Publishing the branch.
+5. Creating a Pull Request.
+6. Reviewing the changes.
+7. Merging approved changes.
